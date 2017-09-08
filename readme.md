@@ -27,6 +27,6 @@ Você deverá fazer todas as etapas no menor tempo possível, nossa expectativa 
 
 **Como apresentar sua solução** Escreva o código na linguagem que prefir, pode usar framework, pode ser pseudo-code
 
-3. Responda o [este](questions.md) questionário e envie junto com suas respostas
+3. Escreva um pouco sobre os tópicos [deste](questions.md) link e envie junto com suas respostas. Pode ser um por assunto, um por linha ou uma redação. Pode ser em inglês ou português.
 
 4. Dá um ping no skype para agendarmos sua visita, você precisará de 2hs~2h:30.
