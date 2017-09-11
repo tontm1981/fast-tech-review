@@ -9,7 +9,7 @@ Você deverá fazer todas as etapas no menor tempo possível, nossa expectativa 
 1. Vamos bater um papo rápido, pode ser presencial ou por skype
 2. Crie um fork desse repositório, e clone-o
 3. Responda os itens #1, #2 e #3 do Tech Review abaixo
-4. Gere um ZIP do seu repositório e envie para xyz@dafiti.com.br. No assunto coloque "Fast Tech Review - `<github username>`"
+4. Gere um ZIP do seu repositório e envie para xyz@dafiti.com.br. No assunto coloque "Fast Tech Review - `<github username>`". Pedimos nesse formato para manter esse repositório sem histórico de respostas.
 5. In office coding time - Após enviar seu teste, dá um ping no skype/e-mail para agendarmos sua visita, você passará umas 2hs~2h:30 aqui conosco. A idéia é vermos uma implementação de algum algoritmo simples, sem white board.
 
 ### Tech Review
@@ -20,7 +20,7 @@ Você deverá fazer todas as etapas no menor tempo possível, nossa expectativa 
 
 **Como apresentar sua solução** Mostre seu desenho do banco: pode ser um arquivo SQL, um schema JSON ou um arquivo texto explicando sua abordagem
 
-2. O objetivo é conseguir entender como você aborda as falhas que uma API possa gerar. Para isso: 
+2. Queremos entender como você aborda as falhas que uma API possa gerar. Para isso: 
 - Faça um Proxy API para esta interface [https://api.punkapi.com/v2/beers](https://api.punkapi.com/v2/beers) - [Documentação](https://punkapi.com/documentation/v2)
     * Aplique os filtros: abv_gt, abv_lt, ibu_gt, ibu_lt, ebc_gt, ebc_lt, beer_name
     * Faça entre 1 e 3 requisições por segundo, para alcançar algumas limitações documentadas
@@ -28,5 +28,5 @@ Você deverá fazer todas as etapas no menor tempo possível, nossa expectativa 
 
 **Como apresentar sua solução:** Escreva o código na linguagem que prefir, pode usar framework, pode ser pseudo-code
 
-3. Escreva um pouco sobre os tópicos [deste](questions.md) link e envie junto com suas respostas. Pode ser um por assunto, um por linha ou uma redação. Pode ser em inglês ou português.
+3. Escreva um pouco sobre os tópicos [deste](questions.md) link e envie junto com suas respostas. Pode ser um por assunto, um por linha ou uma redação.
 
