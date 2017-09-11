@@ -1,15 +1,15 @@
-### Behavior
-- How to swallow pride and admit mistakes without taking them personally.
-- How to think like a user, and not like a techie geek programmer.
-- When to ask for help, and when NOT to ask for help.
-- How to get things done.
+### Comportamento
+- Como admitir erros e aceitar críticas sem levar para o lado pessoal.
+- Como calçar os sapatos do usuário, e tentar entender sua visão.
+- Quando pedir ajudar, quando não pedir ajuda.
+- Como saber que você está fazendo, naquele momento, a coisa mais importante que deveria estar fazendo
 
 ### Code
-- How to read other people's code.
-- Describe SOLID in your own words.
-- How do you know if you're writing the right thing?
-- How do you know if you're writing the thing right?
+- Como ler o código de outras pessoas
+- Descreva o SOLID com suas proprias palavras.
+- Como você sabe que está escrevendo a coisa certa?
+- Como você sabe que está escrevendo certo?
 
 ### Personal
-- How to study/consume information. Tell your sources, how you do it, and how often.
-- What's your hobby?
+- Como você estuda/consome informação. Descreva suas fontes, qual é o seu processo e com que frequencia.
+- Qual é o seu hobby?
