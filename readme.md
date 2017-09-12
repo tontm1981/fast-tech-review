@@ -9,7 +9,7 @@ Você deverá fazer todas as etapas no menor tempo possível, nossa expectativa 
 1. Vamos bater um papo rápido, pode ser presencial ou por skype
 2. Crie um fork desse repositório, e clone-o
 3. Responda os itens #1, #2 e #3 do Tech Review abaixo
-4. Gere um ZIP do seu repositório e envie para xyz@dafiti.com.br. No assunto coloque "Fast Tech Review - `<github username>`". Pedimos nesse formato para manter esse repositório sem histórico de respostas.
+4. Gere um ZIP do seu repositório e envie para cristian.medeiros@tricae.com.br. No assunto coloque "Fast Tech Review - `<github username>`". Pedimos nesse formato para manter esse repositório sem histórico de respostas.
 5. In office coding time - Após enviar seu teste, dá um ping no skype/e-mail para agendarmos sua visita, você passará umas 2hs~2h:30 aqui conosco. A idéia é vermos uma implementação de algum algoritmo simples, sem white board.
 
 ### Tech Review
