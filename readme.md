@@ -20,8 +20,11 @@ Você deverá fazer todas as etapas no menor tempo possível, nossa expectativa 
 
 **Como apresentar sua solução** Mostre seu desenho do banco: pode ser um arquivo SQL, um schema JSON ou um arquivo texto explicando sua abordagem
 
-2. Queremos entender como você aborda as falhas que uma API possa gerar. Para isso: 
-- Faça um Proxy API para esta interface [https://api.punkapi.com/v2/beers](https://api.punkapi.com/v2/beers) - [Documentação](https://punkapi.com/documentation/v2)
+2. [API Proxy](https://www.quora.com/What-is-API-Proxy) 
+
+- Queremos entender como você aborda as falhas que uma API possa gerar. 
+Para isso: 
+- Faça um API Proxy para esta interface [https://api.punkapi.com/v2/beers](https://api.punkapi.com/v2/beers) - [Documentação](https://punkapi.com/documentation/v2)
     * Aplique os filtros: abv_gt, abv_lt, ibu_gt, ibu_lt, ebc_gt, ebc_lt, beer_name
     * Faça entre 1 e 3 requisições por segundo, para alcançar algumas limitações documentadas
     * Não deverá ser possível listar todos os itens em uma única request
